@@ -2,10 +2,6 @@ import java.util.Scanner;
 public class Question21 {
     int c[][]=new int[3][3];
 
-    /**
-     *
-     * @param a
-     */
     public void addition(int a[][],int b[][]){
         for(int i=0;i<3;i++)
             for(int j=0;j<3;j++)
